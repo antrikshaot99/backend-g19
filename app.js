@@ -1,7 +1,7 @@
     // app.js
     const express = require('express');
     const app = express();
-    const port = 4000;
+    const port = 5000;
 
     // Define a route for the root URL ("/")
     app.get('/', (req, res) => {
